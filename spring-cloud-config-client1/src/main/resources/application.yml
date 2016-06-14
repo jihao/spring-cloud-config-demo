@@ -1,0 +1,7 @@
+info:
+  component: Client1
+endpoints:
+  restart:
+    enabled: true
+server:
+  port: 8881
