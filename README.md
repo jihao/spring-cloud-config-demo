@@ -30,7 +30,7 @@
 	$ java -jar ./spring-cloud-config-client1/target/spring-cloud-config-client1-0.0.1-SNAPSHOT.jar 
 ```
 
-### 5. see access client REST url
+### 5. access client REST url
 
 ```bash
 	$ curl http://localhost:8881/greeting
