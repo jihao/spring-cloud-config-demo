@@ -1,0 +1,13 @@
+server:
+  port: 8883
+  
+spring:
+  application:
+    name: zkconfigclient
+  cloud:
+    zookeeper:
+      config:
+        enabled: true
+        root: config
+        defaultContext: application
+        profileSeparator: ','
