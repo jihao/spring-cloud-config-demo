@@ -1,5 +1,9 @@
 # README
 
+This is a demo project of spring cloud config based on git repo and zookeeper. 
+
+For zookeeper demo please check folder [spring-cloud-config-client-zk](./spring-cloud-config-client-zk)
+
 	config repo: ./config-repo folder
 	configserver: localhost:8888
 	client1: localhost:8881
